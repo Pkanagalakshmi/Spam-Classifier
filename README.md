@@ -5,7 +5,7 @@ Certainly! Here’s an updated `README.md` with detailed explanations for each c
 # Spam Classifier
 
 ## Overview
-The Spam Classifier project is a machine learning application designed to classify emails as either spam or ham (non-spam). The project utilizes a Logistic Regression model combined with TF-IDF feature extraction and hyperparameter tuning to achieve effective spam detection. A Flask web application is used to interact with the model.
+The Spam Classifier project is a machine learning application designed to classify Email as either spam or ham (non-spam). The project utilizes a Logistic Regression model combined with TF-IDF feature extraction and hyperparameter tuning to achieve effective spam detection. A Flask web application is used to interact with the model.
 
 ## Project Structure
 The project contains the following files:
