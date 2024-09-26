@@ -11,7 +11,6 @@ The Spam Classifier project is a machine learning application designed to classi
 The project contains the following files:
 - `prepare_data.py`: Script for data preprocessing, model training, and saving.
 - `app.py`: Flask application that serves the model and handles user input.
-- `templates/index.html`: HTML template for the web interface.
 - `model.pkl`: Saved Logistic Regression model.
 - `vectorizer.pkl`: Saved TF-IDF vectorizer.
 
